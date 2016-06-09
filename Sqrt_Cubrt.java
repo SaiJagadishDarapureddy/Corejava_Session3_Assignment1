@@ -12,7 +12,7 @@ public class Sqrt_Cubrt {
 		System.out.println("Enter the Number:" );  
 		number = input.nextDouble();
 System.out.println("SQUARE ROOT:" +Math.sqrt(number));
-System.out.println("SQUARE ROOT:" +Math.cbrt(number));
+System.out.println("CUBE ROOT:" +Math.cbrt(number));
 	}
 	
 }
